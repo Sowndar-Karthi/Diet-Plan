@@ -1,6 +1,6 @@
-# No-Cook Weekly Meal Plan — Normal & Budget
-### For Those Who Cannot Cook · Zero Heat Required · Soak, Sprout & Assemble Only
-#### Tamil & English Names Inline · Full Protein Coverage · 100-Year Health Design
+# Weekly Meal Plan — Normal & Budget (No-Cook *or* Simple Boil)
+### Bachelor-Friendly · Soak Overnight + **10–15 Min Boil** OK · South Indian Style
+#### Tamil & English Names Inline · Full Protein Coverage · Nutrient Checklist Below
 
 ---
 
@@ -8,9 +8,11 @@
 
 | Goal | How This Plan Achieves It |
 |---|---|
-| **Zero cooking** | Every meal uses soaking, sprouting, store-bought roasted, or raw assembly — no stove, no fire |
+| **Minimal time** | **Either** zero-heat assembly **or** one **overnight soak + 10–15 min boil** batch (legumes) a few times per week — see **Simple Cook** section |
 | **Live up to 100 years** | Anti-inflammatory oats, omega-3 seeds, antioxidant fruits, probiotic curd — slow aging naturally |
-| **Heart health (lifelong)** | Soluble fiber from oats & sprouted legumes, omega-3 from walnuts & flaxseeds, no saturated fat |
+| **Heart health (lifelong)** | Soluble fiber from oats & sprouted legumes, omega-3 from walnuts & flaxseeds, minimal saturated fat |
+| **LDL cholesterol (e.g. ~190 mg/dL)** | Oats/poha/legumes (soluble fiber), nuts & flax (healthy fats), whole grains, **no deep-fried or trans-fat snacks** — **diet supports lowering LDL but cannot replace a doctor’s plan** (often statin + lifestyle). Target **~10–15 g soluble fiber/day** from food when possible |
+| **Memory & brain** | Walnuts, flax, chia (omega-3 ALA), berries when available, **adequate B12/folate/iodine** (see Daily Gap-Closers below) |
 | **Height & bone strength** | Sesame (எள்), curd (தயிர்), soaked almonds (பாதாம்), ragi malt — top calcium sources, no cooking needed |
 | **Zero protein deficiency** | Sprouted legumes + curd + peanut butter + oats + nuts every day = 40–55g protein |
 | **Gut & digestive health** | Sprouted legumes, curd, buttermilk, soaked oats — all probiotic and enzyme-rich |
@@ -27,6 +29,28 @@
 | **Sprouting moong / chana** | 24–36 hours | Soak in water 8 hrs → drain → tie in wet cloth → leave 24 hrs → sprouts ready |
 | **Hung curd** | Overnight | Pour curd into a muslin cloth, hang it over a bowl overnight → thick hung curd ready |
 | **Store-bought ready items** | Zero prep | Roasted chana, makhana, groundnuts, bread, peanut butter, hummus, muesli, granola — open and eat |
+
+---
+
+## Simple Cook — Only Boil 10–15 Minutes (After Overnight Soak)
+
+> **Yes, your example is a good pattern:** soak **dry chickpeas (கொண்டைக்கடலை)** in lots of water overnight → next day **drain, fresh water, boil gently 12–20 min** until tender (time depends on age of dal; pressure cooker = faster if you have one). **No frying** — better for **LDL**. Cook **2–3 days’ worth** at once, store **fridge**; use in lunch like **sundal (சுண்டல்)** with lemon + onion + tomato + **iodized salt** pinch.
+
+| Legume (English / தமிழ்) | Soak (night) | Boil (next day) | Why add this |
+|---|---|---|---|
+| **Kabuli chana / chickpeas** — வெள்ளை கொண்டைக்கடலை | 8–10 hrs, plenty of water | **12–20 min** simmer until soft | **Iron, folate, protein, fiber** — helps **women’s iron** target; **soluble fiber** for **LDL** |
+| **Kala chana** — கருப்பு கொண்டை | 8–10 hrs | **20–30 min** (often firmer) | Same family; **more fiber** |
+| **Whole green moong** — பச்சை பயறு முழு | 6–8 hrs | **10–15 min** | Fast boil; **magnesium, potassium, folate** |
+| **Masoor (whole)** — மசூர் முழு | 6–8 hrs | **10–15 min** | **Iron + folate**; cooks quickly |
+| **Rajma** — ராஜ்மா | 8–10 hrs | **15–25 min** (or longer if old) | **Potassium, fiber**; rotate weekly, not daily (gas for some) |
+
+**South Indian “bachelor” serves (no gravy, one pot):**
+
+1. **Sundal (சுண்டல்):** boiled chana or moong + **lemon (எலுமிச்சை)** + raw onion + tomato + cucumber + **mustard optional** (1 tsp oil toast if you want flavour — keep oil small for LDL) or **zero oil** with just lemon + green chilli.  
+2. **Molagootal-style without coconut overload:** mix **boiled moong** with **curd** + salt + lemon — like **kosambari** but warm/cooled.  
+3. **Poha + boiled dal:** same lunch as plan but swap **half** the raw sprouts for **1/2 cup boiled moong/chana** if sprouting is hard in summer.
+
+**Does simple boiling “cover all vitamins & minerals”?** It **closes big gaps** vs raw-only: **iron, zinc, folate, potassium, protein** go up; you still keep the **Daily Gap-Closers** (இளநீர்/மோர், ragi in curd, **iodized salt**, Brazil nut a few days/week, raw **கீரை**) and **sun / fortified dairy / doctor advice for D & B12** — see checklist below.
 
 ---
 
@@ -64,7 +88,7 @@
 | 💧 **Glass 3** | **4:00 PM** | 1 full glass before evening snack | Controls hunger, supports kidney function |
 | 💧 **Throughout** | With meals & between | Sip regularly | Target **2–2.5 litres (8–10 glasses)** daily |
 
-> **Bone & height tip:** Add a pinch of **rock salt (இந்துப்பு)** + squeeze of lemon (எலுமிச்சை) to your 6:10 AM water — helps calcium absorption for strong bones.
+> **Morning water tip:** Squeeze of **lemon (எலுமிச்சை)** in warm water is enough for a fresh start. For **iodine (thyroid)**, use a **tiny pinch of iodized salt (அயோடின் உப்பு)** in meals — many **rock salts (இந்துப்பு) are not iodized**; pick **one** source of iodized salt a few times per week if you rely on rock salt otherwise.
 
 ---
 
@@ -308,7 +332,7 @@
 | 💧 6:10 AM | Water | Warm water — சூடான நீர் | 1 glass | — |
 | 8:30 AM | **Breakfast** | Savory Overnight Oats (உப்பு ஓட்ஸ்) — oats soaked in curd + Grated Cucumber (வெள்ளரி) + Grated Carrot (கேரட்) + Salt + Pepper + Lemon | 1 cup oats + 150ml curd + veggies | Soaked previous night in curd |
 | 💧 11:00 AM | Water + Snack | Apple (ஆப்பிள்) + Soaked Almonds (பாதாம் பருப்பு) + Water | 1 medium + 10 pcs + 1 glass | Ready to eat |
-| 1:30 PM | **Lunch** | Soaked Poha (அவல்) + Curd (தயிர்) + Pickle (ஊறுகாய்) + Sprouted Moong (முளைகட்டிய பாசிப்பயறு) + Cucumber-Tomato Salad (சாலட்) | 1 cup poha + 1 bowl curd + sprouts + salad | Soak poha 10 min |
+| 1:30 PM | **Lunch** | Soaked Poha (அவல்) + Curd (தயிர்) + **Lemon + raw green chilli (optional)** instead of pickle + Sprouted Moong (முளைகட்டிய பாசிப்பயறு) + Cucumber-Tomato Salad (சாலட்) | 1 cup poha + 1 bowl curd + sprouts + salad | Soak poha 10 min — **skip oil pickle for LDL & sodium** |
 | 💧 4:00 PM | Water + Snack | Almonds (பாதாம் பருப்பு) + Water | 10 pcs + 1 glass | Ready to eat |
 | 6:30 PM | Walk | Brisk walk | 45 min | — |
 | 7:30 PM | **Dinner** | Hung Curd Fruit Bowl (தூக்கிய தயிர் பழ கிண்ணம்) — hung curd + Apple (ஆப்பிள்) + Pomegranate (மாதுளை) + store-bought Granola (கிரானோலா) + Walnuts (அக்ரூட் பருப்பு) + Honey | 1 cup hung curd + 1 cup fruits + 3 tbsp granola + 5 walnuts | Mix and serve |
@@ -379,7 +403,90 @@
 | **Vitamin B12** | Nerve health | Curd (தயிர்), milk (பால்) — the only no-cook B12 sources |
 | **Antioxidants** | Slow aging, longevity | Berries (பழங்கள்), pomegranate (மாதுளை), guava (கொய்யா), walnuts |
 
-> **Important for longevity:** Take **10–15 min sunlight (காலை வெயில்)** between 7:30–8:30 AM daily for Vitamin D — no food substitute for this.
+> **Important for longevity:** Take **10–15 min sunlight (காலை வெயில்)** between 7:30–8:30 AM daily for Vitamin D — food alone often still falls short; see below.
+
+---
+
+# NUTRIENT COVERAGE vs YOUR CHART (Men & Women 19–50)
+
+> **Honest summary:** This no-cook plan **covers many** vitamins and minerals through **oats, sprouts, curd, nuts, seeds, fruits, and raw vegetables**, but **no ordinary food plan can guarantee 100% of every RDA every single day** without **fortified foods** or **targeted add-ons**. Below: what is **usually strong**, what **often needs a boost**, and **how to close gaps** without cooking.
+
+| Nutrient | Men / Women target | Covered well by this plan? | Gap-closer (no-cook / minimal effort) |
+|---|---|---|---|
+| **Iron** | 8 mg / **18 mg** | OK for many men; **women often need more** | **Boiled chana/moong (soak overnight + 10–15 min boil)** 1 cup equivalent most days, **sprouts** on other days, **sesame (எள்) 1 tbsp**, **lemon** with the meal for absorption |
+| **Calcium** | 1,000 mg | **Partial** (curd, almonds, chia, sesame help) | **2 bowls low-fat curd/day** when possible; **chia 1 tbsp**; **sesame 1 tbsp**; **fortified soy milk** (store, no cook) if dairy is low |
+| **Magnesium** | 400–420 / 310–320 mg | **Good** (oats, nuts, seeds, legumes) | Keep **pumpkin + sunflower + flax** rotation daily |
+| **Potassium** | 3,400 / 2,600 mg | **Moderate** (fruits/veg help; men’s target is high) | Add **tender coconut water (இளநீர்) 1 small / day** or **1 extra banana + big salad** |
+| **Zinc** | 11 / 8 mg | **Moderate** | **Pumpkin seeds 1 tbsp daily** + peanut butter (already in plan) |
+| **Iodine** | 150 mcg | **Risk of low** if salt is not iodized | Use **iodized salt (அயோடின் உப்பு)** in lemon water / chaat **in small amounts**; **dairy** helps a little |
+| **Selenium** | 55 mcg | **Can be low** without Brazil nuts | **1 Brazil nut, 3–4 days/week** (very high selenium — **do not eat many per day**) |
+| **Sodium** | **< 2,300 mg** | Watch **pickles, chaat masala, rock salt mixes** | **Skip oil pickle** on high-LDL plan; read labels on **packaged roasted snacks** |
+| **Copper / Manganese** | 900 mcg / 2.3–1.8 mg | **Usually OK** (nuts, oats, legumes) | Keep mixed sprouts + oats |
+| **Vitamin A** | 700–900 mcg | **OK** (carrot, papaya, greens when added) | **Grated carrot** most days (already several days) |
+| **Vitamin C** | 75–90 mg | **Strong** (guava, citrus, lemon) | **1 guava or 1 orange** most days — already in rotation |
+| **Vitamin D** | 600 IU (15 mcg) | **Often insufficient** from food + sun alone | **Morning sun** + consider **doctor-advised supplement** or **vitamin D–fortified milk/curd** if available |
+| **Vitamin E** | 15 mg | **Moderate** | **Sunflower seeds 1 tbsp** + almonds (already in plan) |
+| **Vitamin K** | 90–120 mcg | **Can be low** (limited raw greens) | Add **handful raw spinach (கீரை)** in salad **3–4x/week** or **methi sprouts** if you sprout |
+| **B1, B2, B3, B6** | see your chart | **Good** (whole grains, legumes, nuts) | Keep oats + sprouts + peanut butter pattern |
+| **Folate (B9)** | 400 mcg | **Good** (sprouts, legumes) | Keep **sprouted moong/chana** daily |
+| **B12** | 2.4 mcg | **Risk if dairy is small** | **Enough curd + milk** helps; if mostly vegan, **B12 supplement** per clinician |
+| **Biotin (B7)** | 30 mcg | **Moderate** | Peanuts, oats, curd — **natural peanut butter** helps |
+
+---
+
+# LDL ~190 — HOW THIS PLAN FITS (Bachelor, South Indian, Low Cook)
+
+| Do | Why |
+|---|---|
+| **Prioritize soluble fiber** | Oats (ஓட்ஸ்), poha with legumes, sprouted dal, fruits — helps **lower LDL** over time |
+| **Keep walnuts + flax + chia** | **ALA omega-3**; replaces some **saturated fat** calories |
+| **Choose natural peanut butter** (no palm oil / hydrogenated fat) | Avoids **trans fat** that raises LDL |
+| **Limit coconut** to **small amounts** (1–2 tbsp grated) if LDL is priority | Coconut is **high in saturated fat** — fine as flavour, not as main fat source |
+| **Avoid fried bonda/bajji, refined snacks, mawa sweets** | **Trans / excess saturated fat** and calories worsen LDL |
+| **Walk + sleep** (already in plan) | Helps weight, triglycerides, blood pressure — partners with diet |
+| **Medical follow-up** | **LDL 190** usually needs **doctor-led treatment** (often medication); diet **supports** but does not replace care |
+
+---
+
+# DAILY GAP-CLOSERS — South Indian Style, Almost No Cooking
+
+Add **these five habits** on top of the weekly tables above so **minerals & vitamins align closer to your chart** without long kitchen time:
+
+| # | Add-on (English / தமிழ்) | How (minutes) | Fills |
+|---|---------------------------|---------------|--------|
+| 1 | **Tender coconut (இளநீர்)** — 1 small OR **buttermilk (மோர்)** 1 glass | Buy & drink | Potassium, fluids; **மோர்** = probiotics |
+| 2 | **Ragi malt powder (கேழ்வரகு மாவு)** 2 tbsp in **buttermilk or curd** — stir, no heat | 2 min | Calcium, iron, fiber |
+| 3 | **Iodized salt** — a **small pinch** where you already use salt; **not** extra pickle | 0 | **Iodine** |
+| 4 | **Brazil nut** — **1 nut only**, 3–4×/week (not daily handful) | Open pack | **Selenium** |
+| 5 | **Raw spinach (பச்சை கீரை)** handful, chopped fine, mix in **curd / kosambari** style with lemon | 3 min | **Vitamin K**, folate, magnesium |
+
+**Memory stack (same meals):** keep **walnuts + flax/chia + berries when cheap**, **B12** from adequate **curd/milk**, **folate** from **sprouts** — together they support long-term brain health **along with sleep and exercise**.
+
+---
+
+# DAILY CHECKLIST — BACHELOR, ~15 MIN COOK MAX (TICK WHAT YOU ATE)
+
+> Use this **once per day** (end of day is fine). If you tick **every row**, you are **very close** to a full adult micronutrient profile for **19–50**; **Vitamin D** and sometimes **B12** may still need **fortified milk/curd, sun, or clinician advice** — that is normal.
+
+| Tick | Food / habit | Covers (from your chart) |
+|:---:|:---|:---|
+| ☐ | **Whole grains** — oats *or* poha *or* muesli *or* whole wheat bread (2+ servings) | B1, B3, magnesium, manganese, fiber (LDL) |
+| ☐ | **Boiled legume *or* 1 cup mixed sprouts** — chana / moong / masoor (soak+boil OR sprout) | Iron, folate, B6, zinc, copper, potassium, fiber |
+| ☐ | **Curd *or* milk** — 1–2 bowls curd *or* 200 ml milk | Calcium, B12, protein, biotin (partial) |
+| ☐ | **Citrus *or* guava *or* big lemon squeeze** | Vitamin C (helps iron absorption) |
+| ☐ | **Orange / yellow / green veg or fruit** — carrot, papaya, spinach, capsicum | Vitamin A, K, potassium |
+| ☐ | **Nuts** — walnuts (5) *or* almonds (8–10) | Vitamin E, magnesium, ALA (brain) |
+| ☐ | **Seeds** — flax 1 tbsp *or* chia 1 tsp *or* pumpkin/sunflower 1 tbsp | Omega-3 ALA, zinc, magnesium |
+| ☐ | **Sesame 1 tsp *or* ragi 2 tbsp in மோர்/தயிர்** | Calcium, iron |
+| ☐ | **Iodized salt** — small pinch in one meal (not heaps) | Iodine |
+| ☐ | **இளநீர் small *or* extra banana + salad** | Potassium |
+| ☐ | **Brazil nut ×1** (only **3–4 days per week**, not daily) | Selenium |
+| ☐ | **Morning sun 10–15 min** *or* fortified dairy | Vitamin D |
+| ☐ | **Water ~2–2.5 L** | Everything works better |
+
+**Optional if non-vegetarian:** ☐ **1 whole boiled egg (7–9 min)** — strong support for **B12, biotin, choline** (memory). Skip if pure vegetarian; keep **extra curd/milk** instead.
+
+**If LDL is high:** keep **boiled sundal** instead of **fried** snacks; prefer **peanut butter without hydrogenated oil**; **limit coconut** to garnish only.
 
 ---
 
@@ -404,6 +511,7 @@ Trip 1: Sunday Evening  →  Trip 2: Wednesday Evening  →  Trip 3: Friday Even
 | Item (English / தமிழ்) | Quantity |
 |---|---|
 | Rolled / Steel Cut Oats — ஓட்ஸ் | 750g |
+| Ragi malt flour (கேழ்வரகு மாவு) — for curd/buttermilk mix, no cook | 200g |
 | Poha / Flattened Rice — அவல் | 500g |
 | Muesli (plain oat-based) — மியூஸ்லி | 400g |
 | Granola (plain, store-bought) — கிரானோலா | 200g |
@@ -414,7 +522,7 @@ Trip 1: Sunday Evening  →  Trip 2: Wednesday Evening  →  Trip 3: Friday Even
 | Roasted Makhana — தாமரை விதை | 150g |
 | Roasted Groundnuts — வறுத்த நிலக்கடலை | 200g |
 | Moong Dal (for sprouting) — பாசிப் பருப்பு | 500g |
-| Chana / Chickpeas (for sprouting) — கொண்டைக்கடலை | 300g |
+| Chana / Chickpeas (for sprouting **or soak+boil sundal**) — கொண்டைக்கடலை | 500g (boil batch uses more) |
 | Masoor Dal (for sprouting) — மசூர் பருப்பு | 200g |
 
 ### Weekly Nuts & Seeds — Buy Once
@@ -422,6 +530,7 @@ Trip 1: Sunday Evening  →  Trip 2: Wednesday Evening  →  Trip 3: Friday Even
 | Item (English / தமிழ்) | Quantity |
 |---|---|
 | Walnuts — அக்ரூட் பருப்பு | 60g |
+| Brazil nuts — பிரேசில் பருப்பு (selenium; **eat max 1 nut, a few days/week**) | 4–6 nuts only for the week |
 | Almonds — பாதாம் பருப்பு | 80g |
 | Pistachios — பிஸ்தா பருப்பு | 25g |
 | Pumpkin Seeds — பூசணி விதை | 40g |
@@ -441,6 +550,9 @@ Trip 1: Sunday Evening  →  Trip 2: Wednesday Evening  →  Trip 3: Friday Even
 | Cucumber — வெள்ளரி | 4–5 nos | Lasts 2–3 days |
 | Carrot — கேரட் | 3–4 nos | Lasts 3–4 days |
 | Lemon — எலுமிச்சை | 8–10 nos | Full week supply |
+| Iodized salt (அயோடின் உப்பு) | 1 small pack | For pinch in water / salad — **iodine** |
+| Tender coconut — இளநீர் | 2–3 small | Potassium; drink same day |
+| Spinach — கீரை (raw salad) | 1 small bunch | Vitamin K; rinse, chop fine |
 | Beetroot — செங்கிழங்கு | 2 medium | Lasts 4–5 days |
 | Papaya — பப்பாளி | 1 small | Eat within 2 days — whole fruit |
 | Guava — கொய்யாப்பழம் | 3 nos | Lasts 2 days |
@@ -544,3 +656,5 @@ Trip 1: Sunday Evening  →  Trip 2: Wednesday Evening  →  Trip 3: Friday Even
 *Water: 3 scheduled glasses + sips = 2.5L daily | Walk: 45 min @ 6:30 PM | Sleep: 10:30 PM*
 *Protein: 41–51g/day via sprouted legumes + curd + peanut butter + oats + nuts — No deficiency*
 *Bone & longevity: Sesame + Soaked almonds + Curd + Chia + Flaxseeds + Walnuts + Daily sunlight*
+*Nutrient chart (19–50): use **DAILY CHECKLIST** + “NUTRIENT COVERAGE vs YOUR CHART” + Gap-Closers; **soak+boil legumes** (10–15 min) improve iron/folate vs sprouts-only*
+*LDL ~190: high soluble fiber + healthy fats; avoid pickle/fried snacks; medical care + diet together — not either/or*
